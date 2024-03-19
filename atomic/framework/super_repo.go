@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/jjg-akers/db-abstraction-patterns/usecase"
+	"github.com/jjg-akers/db-abstraction-patterns/atomic/usecase"
 )
 
 type AtomicRepo struct {

@@ -5,8 +5,8 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/jjg-akers/db-abstraction-patterns/framework"
-	"github.com/jjg-akers/db-abstraction-patterns/usecase"
+	"github.com/jjg-akers/db-abstraction-patterns/atomic/framework"
+	"github.com/jjg-akers/db-abstraction-patterns/atomic/usecase"
 )
 
 func main() {
